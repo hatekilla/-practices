@@ -1,0 +1,7 @@
+C:\Users\weh\source\repos\pw3\pw3.2\obj\Debug\pw3.2.csproj.CoreCompileInputs.cache
+C:\Users\weh\source\repos\pw3\pw3.2\bin\Debug\pw3.2.exe.config
+C:\Users\weh\source\repos\pw3\pw3.2\bin\Debug\pw3.2.exe
+C:\Users\weh\source\repos\pw3\pw3.2\bin\Debug\pw3.2.pdb
+C:\Users\weh\source\repos\pw3\pw3.2\obj\Debug\pw3.2.exe
+C:\Users\weh\source\repos\pw3\pw3.2\obj\Debug\pw3.2.pdb
+C:\Users\weh\source\repos\pw3\pw3.2\obj\Debug\pw3.2.csprojAssemblyReference.cache

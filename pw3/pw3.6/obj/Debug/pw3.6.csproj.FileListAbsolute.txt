@@ -1,0 +1,7 @@
+C:\Users\weh\source\repos\pw3\pw3.6\bin\Debug\pw3.6.exe.config
+C:\Users\weh\source\repos\pw3\pw3.6\bin\Debug\pw3.6.exe
+C:\Users\weh\source\repos\pw3\pw3.6\bin\Debug\pw3.6.pdb
+C:\Users\weh\source\repos\pw3\pw3.6\obj\Debug\pw3.6.csprojAssemblyReference.cache
+C:\Users\weh\source\repos\pw3\pw3.6\obj\Debug\pw3.6.csproj.CoreCompileInputs.cache
+C:\Users\weh\source\repos\pw3\pw3.6\obj\Debug\pw3.6.exe
+C:\Users\weh\source\repos\pw3\pw3.6\obj\Debug\pw3.6.pdb

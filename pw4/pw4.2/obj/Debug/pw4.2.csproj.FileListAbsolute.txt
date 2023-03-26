@@ -1,0 +1,6 @@
+C:\Users\weh\source\repos\pw4\pw4.2\bin\Debug\pw4.2.exe.config
+C:\Users\weh\source\repos\pw4\pw4.2\bin\Debug\pw4.2.exe
+C:\Users\weh\source\repos\pw4\pw4.2\bin\Debug\pw4.2.pdb
+C:\Users\weh\source\repos\pw4\pw4.2\obj\Debug\pw4.2.csproj.CoreCompileInputs.cache
+C:\Users\weh\source\repos\pw4\pw4.2\obj\Debug\pw4.2.exe
+C:\Users\weh\source\repos\pw4\pw4.2\obj\Debug\pw4.2.pdb

@@ -1,0 +1,7 @@
+C:\Users\weh\source\repos\pw5\pw5\obj\Debug\pw5.csprojAssemblyReference.cache
+C:\Users\weh\source\repos\pw5\pw5\obj\Debug\pw5.csproj.CoreCompileInputs.cache
+C:\Users\weh\source\repos\pw5\pw5\bin\Debug\pw5.exe.config
+C:\Users\weh\source\repos\pw5\pw5\bin\Debug\pw5.exe
+C:\Users\weh\source\repos\pw5\pw5\bin\Debug\pw5.pdb
+C:\Users\weh\source\repos\pw5\pw5\obj\Debug\pw5.exe
+C:\Users\weh\source\repos\pw5\pw5\obj\Debug\pw5.pdb

@@ -1,0 +1,2 @@
+C:\Users\weh\source\repos\pw3\pw3\obj\Debug\pw3.csprojAssemblyReference.cache
+C:\Users\weh\source\repos\pw3\pw3\obj\Debug\pw3.csproj.CoreCompileInputs.cache

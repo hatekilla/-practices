@@ -1,0 +1,7 @@
+C:\Users\weh\source\repos\pw4\pw4\obj\Debug\pw4.csprojAssemblyReference.cache
+C:\Users\weh\source\repos\pw4\pw4\obj\Debug\pw4.csproj.CoreCompileInputs.cache
+C:\Users\weh\source\repos\pw4\pw4\bin\Debug\pw4.exe.config
+C:\Users\weh\source\repos\pw4\pw4\bin\Debug\pw4.exe
+C:\Users\weh\source\repos\pw4\pw4\bin\Debug\pw4.pdb
+C:\Users\weh\source\repos\pw4\pw4\obj\Debug\pw4.exe
+C:\Users\weh\source\repos\pw4\pw4\obj\Debug\pw4.pdb
